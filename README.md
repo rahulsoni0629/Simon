@@ -13,18 +13,18 @@ In this game, you get:
 
 ## How to Play
 
-1. **Start the Game:** Click "Start" to kick things off.
-2. **Watch and Listen:** Simon will show you a sequence of lights and sounds.
+1. **Start the Game:** Click any button to start.
+2. **Watch and Listen:** Simon will show you a sequence of lights .
 3. **Repeat the Sequence:** Click the buttons in the same order Simon did.
 4. **Rising Difficulty:** Every successful round makes the game a bit tougher.
-5. **Game Over:** Make a mistake, and the game ends. Your score is saved.
+5. **Game Over:** Make a mistake, and the game ends. Your score will show.
 
 ## Installation
 
 Getting the game on your computer is easy:
 
-1. **Clone the Repository:** Use `git clone https://github.com/your-username/simon-says.git`.
-2. **Go to the Folder:** `cd simon-says`.
+1. **Clone the Repository:** Use `git clone https://github.com/rahulsoni0629/simon.git`.
+2. **Go to the Folder:** `cd simon`.
 3. **Install Dependencies:** Run `npm install` or `yarn install`.
 
 ## Usage
@@ -41,9 +41,5 @@ Want to add something cool? Awesome! Here's how:
 3. **Make Changes:** Do your magic and save your changes.
 4. **Push Your Changes:** `git push origin feature/new-feature`.
 5. **Send a Pull Request:** Let us know what you've done.
-
-## License
-
-This game is yours to enjoy, and it's under the [MIT License](LICENSE). If you have questions, feedback, or issues, shout out on [GitHub](https://github.com/your-username/simon-says/issues).
 
 Have a blast playing Simon Says!
